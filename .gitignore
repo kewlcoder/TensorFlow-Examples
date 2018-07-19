@@ -11,3 +11,5 @@ dist/*
 checkpoint
 htmlcov
 mnist
+/notebooks/3_NeuralNetworks/summary_logs_alexnet/*.WKWIN1466718
+/notebooks/3_NeuralNetworks/summary_logs_convnet/*.WKWIN1466718
